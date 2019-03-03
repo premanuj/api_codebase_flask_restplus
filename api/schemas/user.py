@@ -14,3 +14,4 @@ class UserSchema(ModelSchema, BaseSchema):
         model = User
         strict = True
         sqla_session = session
+        exclude = ("password",)
