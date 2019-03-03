@@ -4,8 +4,6 @@ from marshmallow_sqlalchemy import ModelSchema
 
 from api.models import User
 from api.models.base_model import session
-
-# from api.utilities.common import id_validator
 from api.schemas.base_schema import BaseSchema
 
 

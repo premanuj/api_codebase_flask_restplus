@@ -10,6 +10,7 @@ class BaseService:
 
     @classmethod
     def fetch(cls, params):
+        print(params)
         return cls.model.fetch(params)
 
     @classmethod

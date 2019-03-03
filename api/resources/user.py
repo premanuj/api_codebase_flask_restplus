@@ -13,15 +13,6 @@ from api.models import User
 
 meta = MetaService(UserSchema)
 
-
-# login_payload = user_api.model("User", {"email": fields.String, "password": fields.String})
-# model = user_api.model("Model", {"name": fields.String, "age": fields.Integer})
-
-# parser = reqparse.RequestParser()
-# parser.add_argument("email", help="This field cannot be blank", required=True)
-# parser.add_argument("password", help="This field cannot be blank", required=True)
-
-
 resource = ApiResource(user_api, meta)
 
 

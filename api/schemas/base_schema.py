@@ -1,11 +1,24 @@
 from typing import List
-
 from sqlalchemy import inspect
-from marshmallow_sqlalchemy import ModelSchema
 from marshmallow import ValidationError
+from sqlalchemy.ext.hybrid import hybrid_property
+from marshmallow_sqlalchemy import ModelSchema
 
 
 class BaseSchema:
+    @classmethod
+    def model_hybrid_columns(cls) -> List[str]:
+        if not issubclass(cls, ModelSchema):
+            raise Exception(
+                'class "%s" is not subclass of "%s"' % (cls.__name__, ModelSchema.__name__)
+            )
+
+        return [
+            attribute.__name__
+            for attribute in inspect(cls.Meta.model).all_orm_descriptors
+            if isinstance(attribute, hybrid_property)
+        ]
+
     @classmethod
     def model_columns(cls) -> List[str]:
         if hasattr(cls, "Meta") and hasattr(cls.Meta, "selects"):

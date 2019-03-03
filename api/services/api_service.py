@@ -1,10 +1,8 @@
 from http import HTTPStatus
 from typing import Callable, Union
 from flask_restplus import Api as BaseApi, Namespace
-from api.services.meta_service import MetaService
 from api.decorators.marshmallow_with import marshmallow_with
 
-# from api.services.meta_service import
 Api = Union[BaseApi, Namespace]
 
 

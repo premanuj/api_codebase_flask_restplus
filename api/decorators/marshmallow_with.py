@@ -80,7 +80,7 @@ def _add_fields_to_kwargs(
             fields = set().union(kwargs_copy["only"], fields)
         kwargs_copy["only"] = tuple(fields)
     if "only" in kwargs_copy:
-        kwargs_copy["only"] = _fet_fields_recursively(schema_class(), kwargs_copy["only"])
+        kwargs_copy["only"] = _get_fields_recursively(schema_class(), kwargs_copy["only"])
     return kwargs_copy
 
 
@@ -110,8 +110,8 @@ def marshmallow_with(
     def decorator(function: Callable) -> Callable:
         @wraps(function)
         def wrapper(*args, **kwargs) -> Tuple[dict, HTTPStatus]:
-            # mm_kwargs_copy
-            schema = schema_class(*mm_args, **mm_kwargs)
+            mm_kwargs_copy = _add_fields_to_kwargs(request_parser, schema_class, **mm_kwargs)
+            schema = schema_class(*mm_args, **mm_kwargs_copy)
             entity = function(*args, **kwargs)
 
             if isinstance(entity, Base) or (
