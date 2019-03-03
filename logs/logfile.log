@@ -1,0 +1,852 @@
+[2019-02-23 14:28:45,176] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 14:28:45,196] - DEBUG: Request completion time: 0.01544499397277832
+[2019-02-23 14:28:50,750] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 14:28:50,752] - DEBUG: Request completion time: 0.0002868175506591797
+[2019-02-23 14:28:51,372] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 14:28:51,373] - DEBUG: Request completion time: 0.00039887428283691406
+[2019-02-23 14:28:51,831] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 14:28:51,832] - DEBUG: Request completion time: 0.00023698806762695312
+[2019-02-23 14:28:52,067] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 14:28:52,068] - DEBUG: Request completion time: 0.00016188621520996094
+[2019-02-23 14:28:52,273] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 14:28:52,274] - DEBUG: Request completion time: 0.00016999244689941406
+[2019-02-23 14:28:52,497] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 14:28:52,498] - DEBUG: Request completion time: 0.00015592575073242188
+[2019-02-23 15:13:48,250] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:13:48,279] - DEBUG: Request completion time: 0.021294116973876953
+[2019-02-23 15:13:48,309] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-02-23 15:13:48,314] - DEBUG: Request completion time: 0.004180908203125
+[2019-02-23 15:13:48,625] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:13:48,626] - DEBUG: Request completion time: 0.001138925552368164
+[2019-02-23 15:13:48,750] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:13:48,751] - DEBUG: Request completion time: 0.0007109642028808594
+[2019-02-23 15:15:32,635] - DEBUG: Request [GET] : http://localhost:5000/jk
+[2019-02-23 15:15:32,664] - DEBUG: Request completion time: 0.028701066970825195
+[2019-02-23 15:15:36,634] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:15:36,636] - DEBUG: Request completion time: 0.0014548301696777344
+[2019-02-23 15:15:36,898] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:15:36,898] - DEBUG: Request completion time: 0.0004658699035644531
+[2019-02-23 15:21:48,283] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:21:48,314] - DEBUG: Request completion time: 0.024274110794067383
+[2019-02-23 15:21:48,432] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:21:48,433] - DEBUG: Request completion time: 0.001255035400390625
+[2019-02-23 15:21:48,453] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:21:48,455] - DEBUG: Request completion time: 0.001898050308227539
+[2019-02-23 15:21:48,514] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:21:48,517] - DEBUG: Request completion time: 0.0022580623626708984
+[2019-02-23 15:21:48,640] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:21:48,640] - DEBUG: Request completion time: 0.0004849433898925781
+[2019-02-23 15:21:48,658] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:21:48,660] - DEBUG: Request completion time: 0.0008566379547119141
+[2019-02-23 15:21:49,343] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:21:49,348] - DEBUG: Request completion time: 0.004277944564819336
+[2019-02-23 15:21:49,435] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:21:49,436] - DEBUG: Request completion time: 0.0006999969482421875
+[2019-02-23 15:21:49,449] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:21:49,450] - DEBUG: Request completion time: 0.0008521080017089844
+[2019-02-23 15:25:06,257] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:25:06,267] - DEBUG: Request completion time: 0.004045963287353516
+[2019-02-23 15:25:06,404] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:25:06,405] - DEBUG: Request completion time: 0.0004329681396484375
+[2019-02-23 15:25:06,417] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:25:06,419] - DEBUG: Request completion time: 0.0008120536804199219
+[2019-02-23 15:26:07,266] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:26:07,275] - DEBUG: Request completion time: 0.0025169849395751953
+[2019-02-23 15:26:07,392] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:26:07,393] - DEBUG: Request completion time: 0.0005288124084472656
+[2019-02-23 15:26:07,415] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:26:07,417] - DEBUG: Request completion time: 0.0012149810791015625
+[2019-02-23 15:26:08,151] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:26:08,155] - DEBUG: Request completion time: 0.003465890884399414
+[2019-02-23 15:26:08,251] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:26:08,252] - DEBUG: Request completion time: 0.00042176246643066406
+[2019-02-23 15:26:08,262] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:26:08,264] - DEBUG: Request completion time: 0.0010159015655517578
+[2019-02-23 15:26:08,365] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:26:08,368] - DEBUG: Request completion time: 0.0019288063049316406
+[2019-02-23 15:26:08,458] - DEBUG: Request [GET] : http://localhost:5000/api/v2/swagger.json
+[2019-02-23 15:26:08,459] - DEBUG: Request completion time: 0.00042891502380371094
+[2019-02-23 15:26:08,468] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:26:08,469] - DEBUG: Request completion time: 0.0008320808410644531
+[2019-02-23 15:37:13,495] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:37:13,516] - DEBUG: Request completion time: 0.01998305320739746
+[2019-02-23 15:38:09,817] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:38:09,831] - DEBUG: Request completion time: 0.013463020324707031
+[2019-02-23 15:38:10,965] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:38:10,966] - DEBUG: Request completion time: 0.00036716461181640625
+[2019-02-23 15:38:11,435] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:38:11,436] - DEBUG: Request completion time: 0.00023293495178222656
+[2019-02-23 15:38:11,629] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:38:11,631] - DEBUG: Request completion time: 0.0002589225769042969
+[2019-02-23 15:38:11,804] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:38:11,805] - DEBUG: Request completion time: 0.00021505355834960938
+[2019-02-23 15:38:11,980] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:38:11,981] - DEBUG: Request completion time: 0.0003237724304199219
+[2019-02-23 15:38:14,566] - DEBUG: Request [GET] : http://localhost:5000/api/v1/
+[2019-02-23 15:38:14,567] - DEBUG: Request completion time: 0.0002460479736328125
+[2019-02-23 15:38:19,920] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:38:19,921] - DEBUG: Request completion time: 0.0003635883331298828
+[2019-02-23 15:39:15,115] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:15,116] - DEBUG: Request completion time: 0.0003020763397216797
+[2019-02-23 15:39:37,585] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:37,586] - DEBUG: Request completion time: 0.00020503997802734375
+[2019-02-23 15:39:38,587] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:38,588] - DEBUG: Request completion time: 0.0002880096435546875
+[2019-02-23 15:39:38,932] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:38,933] - DEBUG: Request completion time: 0.00023508071899414062
+[2019-02-23 15:39:39,149] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:39,149] - DEBUG: Request completion time: 0.0002741813659667969
+[2019-02-23 15:39:39,339] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:39,340] - DEBUG: Request completion time: 0.0003650188446044922
+[2019-02-23 15:39:39,501] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:39,501] - DEBUG: Request completion time: 0.00025200843811035156
+[2019-02-23 15:39:39,679] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:39:39,679] - DEBUG: Request completion time: 0.0002880096435546875
+[2019-02-23 15:39:59,008] - DEBUG: Request [GET] : http://localhost:5000/users
+[2019-02-23 15:39:59,040] - DEBUG: Request completion time: 0.031075716018676758
+[2019-02-23 15:40:41,040] - DEBUG: Request [GET] : http://localhost:5000/users
+[2019-02-23 15:40:41,043] - DEBUG: Request completion time: 0.0008709430694580078
+[2019-02-23 15:40:55,716] - DEBUG: Request [GET] : http://localhost:5000/users
+[2019-02-23 15:40:55,718] - DEBUG: Request completion time: 0.0014028549194335938
+[2019-02-23 15:41:13,119] - DEBUG: Request [GET] : http://localhost:5000/users
+[2019-02-23 15:41:13,121] - DEBUG: Request completion time: 0.0004889965057373047
+[2019-02-23 15:41:25,536] - DEBUG: Request [GET] : http://localhost:5000/users
+[2019-02-23 15:41:25,553] - DEBUG: Request completion time: 0.014834880828857422
+[2019-02-23 15:41:39,876] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:41:39,877] - DEBUG: Request completion time: 0.0005791187286376953
+[2019-02-23 15:41:45,168] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:41:45,199] - DEBUG: Request completion time: 0.031404972076416016
+[2019-02-23 15:41:45,228] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-02-23 15:41:45,229] - DEBUG: Request completion time: 0.0014510154724121094
+[2019-02-23 15:41:45,497] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 15:41:45,499] - DEBUG: Request completion time: 0.0014848709106445312
+[2019-02-23 15:54:02,457] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:54:02,458] - DEBUG: Request completion time: 0.00024700164794921875
+[2019-02-23 15:56:52,230] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 15:56:52,249] - DEBUG: Request completion time: 0.018420934677124023
+[2019-02-23 15:56:52,489] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 15:56:52,491] - DEBUG: Request completion time: 0.0012810230255126953
+[2019-02-23 15:56:52,502] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 15:56:52,504] - DEBUG: Request completion time: 0.0018019676208496094
+[2019-02-23 15:56:59,523] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 15:56:59,523] - DEBUG: Request completion time: 0.0003571510314941406
+[2019-02-23 16:04:16,916] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:04:16,940] - DEBUG: Request completion time: 0.022136926651000977
+[2019-02-23 16:04:17,089] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:04:17,090] - DEBUG: Request completion time: 0.0012328624725341797
+[2019-02-23 16:04:17,101] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:04:17,104] - DEBUG: Request completion time: 0.0017631053924560547
+[2019-02-23 16:04:25,142] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 16:04:25,143] - DEBUG: Request completion time: 0.0003609657287597656
+[2019-02-23 16:04:57,492] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:04:57,516] - DEBUG: Request completion time: 0.022736310958862305
+[2019-02-23 16:04:57,603] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:04:57,605] - DEBUG: Request completion time: 0.0013070106506347656
+[2019-02-23 16:04:57,615] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:04:57,620] - DEBUG: Request completion time: 0.002148866653442383
+[2019-02-23 16:05:07,802] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-23 16:05:07,802] - DEBUG: Request completion time: 0.0004010200500488281
+[2019-02-23 16:05:54,327] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:05:54,357] - DEBUG: Request completion time: 0.021193981170654297
+[2019-02-23 16:05:54,454] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:05:54,456] - DEBUG: Request completion time: 0.0012359619140625
+[2019-02-23 16:05:54,470] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:05:54,472] - DEBUG: Request completion time: 0.0018420219421386719
+[2019-02-23 16:05:55,218] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:05:55,220] - DEBUG: Request completion time: 0.0012700557708740234
+[2019-02-23 16:05:55,307] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:05:55,308] - DEBUG: Request completion time: 0.0006248950958251953
+[2019-02-23 16:05:55,317] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:05:55,318] - DEBUG: Request completion time: 0.0007517337799072266
+[2019-02-23 16:05:55,809] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:05:55,811] - DEBUG: Request completion time: 0.0015110969543457031
+[2019-02-23 16:05:55,915] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:05:55,916] - DEBUG: Request completion time: 0.0006473064422607422
+[2019-02-23 16:05:55,929] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:05:55,930] - DEBUG: Request completion time: 0.0007557868957519531
+[2019-02-23 16:05:56,114] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:05:56,116] - DEBUG: Request completion time: 0.0017752647399902344
+[2019-02-23 16:05:56,202] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:05:56,203] - DEBUG: Request completion time: 0.0005350112915039062
+[2019-02-23 16:05:56,210] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:05:56,212] - DEBUG: Request completion time: 0.0007989406585693359
+[2019-02-23 16:05:56,378] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:05:56,380] - DEBUG: Request completion time: 0.0013000965118408203
+[2019-02-23 16:05:56,463] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:05:56,463] - DEBUG: Request completion time: 0.0005280971527099609
+[2019-02-23 16:05:56,471] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:05:56,473] - DEBUG: Request completion time: 0.0010540485382080078
+[2019-02-23 16:06:13,136] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:06:13,157] - DEBUG: Request completion time: 0.020945310592651367
+[2019-02-23 16:06:13,249] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:06:13,251] - DEBUG: Request completion time: 0.0015571117401123047
+[2019-02-23 16:06:13,261] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:06:13,263] - DEBUG: Request completion time: 0.0013380050659179688
+[2019-02-23 16:06:13,886] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-23 16:06:13,889] - DEBUG: Request completion time: 0.0021448135375976562
+[2019-02-23 16:06:13,976] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-23 16:06:13,977] - DEBUG: Request completion time: 0.0005071163177490234
+[2019-02-23 16:06:13,985] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-23 16:06:13,986] - DEBUG: Request completion time: 0.0009987354278564453
+[2019-02-24 14:14:43,387] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 14:14:43,406] - DEBUG: Request completion time: 0.017200946807861328
+[2019-02-24 14:14:43,429] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-02-24 14:14:43,433] - DEBUG: Request completion time: 0.0038270950317382812
+[2019-02-24 14:14:43,438] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui.css
+[2019-02-24 14:14:43,441] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-02-24 14:14:43,444] - DEBUG: Request completion time: 0.0036270618438720703
+[2019-02-24 14:14:43,448] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/droid-sans.css
+[2019-02-24 14:14:43,452] - DEBUG: Request completion time: 0.002189159393310547
+[2019-02-24 14:14:43,458] - DEBUG: Request completion time: 0.005443096160888672
+[2019-02-24 14:14:43,795] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 14:14:43,796] - DEBUG: Request completion time: 0.0012829303741455078
+[2019-02-24 14:14:43,886] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 14:14:43,888] - DEBUG: Request completion time: 0.001249074935913086
+[2019-02-24 14:16:48,685] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 14:16:48,712] - DEBUG: Request completion time: 0.02514815330505371
+[2019-02-24 14:16:48,852] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 14:16:48,855] - DEBUG: Request completion time: 0.0030870437622070312
+[2019-02-24 14:16:48,865] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 14:16:48,868] - DEBUG: Request completion time: 0.0022830963134765625
+[2019-02-24 14:17:20,207] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-24 14:17:20,208] - DEBUG: Request completion time: 0.00041174888610839844
+[2019-02-24 14:17:27,107] - DEBUG: Request [GET] : http://localhost:5000/api/v1/secret
+[2019-02-24 14:17:27,107] - DEBUG: Request completion time: 0.0003809928894042969
+[2019-02-24 14:17:35,953] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-24 14:17:35,954] - DEBUG: Request completion time: 0.0002448558807373047
+[2019-02-24 20:45:21,420] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 20:45:21,449] - DEBUG: Request completion time: 0.027650117874145508
+[2019-02-24 20:45:21,643] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-02-24 20:45:21,646] - DEBUG: Request completion time: 0.0024912357330322266
+[2019-02-24 20:45:21,991] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 20:45:21,994] - DEBUG: Request completion time: 0.002702951431274414
+[2019-02-24 20:45:31,024] - DEBUG: Request [POST] : http://localhost:5000/api/v1/login
+[2019-02-24 20:45:31,034] - DEBUG: Request completion time: 0.010236978530883789
+[2019-02-24 20:55:59,039] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 20:55:59,073] - DEBUG: Request completion time: 0.032781124114990234
+[2019-02-24 20:55:59,427] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 20:55:59,431] - DEBUG: Request completion time: 0.003242015838623047
+[2019-02-24 20:55:59,514] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 20:55:59,516] - DEBUG: Request completion time: 0.0019817352294921875
+[2019-02-24 21:00:33,987] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:00:34,017] - DEBUG: Request completion time: 0.027910232543945312
+[2019-02-24 21:00:34,184] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:00:34,188] - DEBUG: Request completion time: 0.0038361549377441406
+[2019-02-24 21:00:34,204] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:00:34,209] - DEBUG: Request completion time: 0.005177021026611328
+[2019-02-24 21:02:26,719] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:02:26,747] - DEBUG: Request completion time: 0.02699875831604004
+[2019-02-24 21:02:26,924] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:02:26,928] - DEBUG: Request completion time: 0.003103971481323242
+[2019-02-24 21:02:26,944] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:02:26,946] - DEBUG: Request completion time: 0.0014560222625732422
+[2019-02-24 21:04:38,113] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:04:38,142] - DEBUG: Request completion time: 0.027900218963623047
+[2019-02-24 21:04:38,281] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:04:38,284] - DEBUG: Request completion time: 0.0026967525482177734
+[2019-02-24 21:04:38,297] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:04:38,299] - DEBUG: Request completion time: 0.0012547969818115234
+[2019-02-24 21:04:55,253] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:04:55,284] - DEBUG: Request completion time: 0.02972698211669922
+[2019-02-24 21:04:55,418] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:04:55,422] - DEBUG: Request completion time: 0.003349781036376953
+[2019-02-24 21:04:55,434] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:04:55,436] - DEBUG: Request completion time: 0.0016999244689941406
+[2019-02-24 21:05:06,743] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:05:06,765] - DEBUG: Request completion time: 0.021437883377075195
+[2019-02-24 21:05:06,887] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:05:06,891] - DEBUG: Request completion time: 0.0032389163970947266
+[2019-02-24 21:05:06,904] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:05:06,906] - DEBUG: Request completion time: 0.0016407966613769531
+[2019-02-24 21:05:26,934] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:05:26,962] - DEBUG: Request completion time: 0.02575373649597168
+[2019-02-24 21:05:27,173] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:05:27,177] - DEBUG: Request completion time: 0.0037338733673095703
+[2019-02-24 21:05:27,197] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:05:27,198] - DEBUG: Request completion time: 0.0013170242309570312
+[2019-02-24 21:21:13,354] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:21:13,376] - DEBUG: Request completion time: 0.02143383026123047
+[2019-02-24 21:21:13,586] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:21:13,588] - DEBUG: Request completion time: 0.0015439987182617188
+[2019-02-24 21:21:13,707] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:21:13,709] - DEBUG: Request completion time: 0.0011129379272460938
+[2019-02-24 21:21:30,052] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:21:30,056] - DEBUG: Request completion time: 0.00292205810546875
+[2019-02-24 21:21:30,215] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:21:30,216] - DEBUG: Request completion time: 0.0005550384521484375
+[2019-02-24 21:21:30,291] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:21:30,293] - DEBUG: Request completion time: 0.0017600059509277344
+[2019-02-24 21:21:49,506] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:21:49,508] - DEBUG: Request completion time: 0.0011692047119140625
+[2019-02-24 21:21:49,644] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:21:49,645] - DEBUG: Request completion time: 0.0005648136138916016
+[2019-02-24 21:21:49,668] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:21:49,669] - DEBUG: Request completion time: 0.0007710456848144531
+[2019-02-24 21:22:24,256] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:22:24,270] - DEBUG: Request completion time: 0.013923883438110352
+[2019-02-24 21:22:24,372] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:22:24,376] - DEBUG: Request completion time: 0.0027740001678466797
+[2019-02-24 21:22:24,386] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:22:24,388] - DEBUG: Request completion time: 0.0013778209686279297
+[2019-02-24 21:22:37,184] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:22:37,202] - DEBUG: Request completion time: 0.017442941665649414
+[2019-02-24 21:22:37,322] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:22:37,324] - DEBUG: Request completion time: 0.001500844955444336
+[2019-02-24 21:22:37,336] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:22:37,338] - DEBUG: Request completion time: 0.001486063003540039
+[2019-02-24 21:23:37,165] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:23:37,168] - DEBUG: Request completion time: 0.002053976058959961
+[2019-02-24 21:23:37,310] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:23:37,311] - DEBUG: Request completion time: 0.0006420612335205078
+[2019-02-24 21:23:37,334] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:23:37,335] - DEBUG: Request completion time: 0.0008451938629150391
+[2019-02-24 21:23:51,866] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:23:51,882] - DEBUG: Request completion time: 0.015386819839477539
+[2019-02-24 21:23:52,001] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:23:52,005] - DEBUG: Request completion time: 0.003330230712890625
+[2019-02-24 21:23:52,019] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:23:52,022] - DEBUG: Request completion time: 0.0020079612731933594
+[2019-02-24 21:25:01,994] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:25:02,027] - DEBUG: Request completion time: 0.023476839065551758
+[2019-02-24 21:25:02,159] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:25:02,163] - DEBUG: Request completion time: 0.00360107421875
+[2019-02-24 21:25:02,179] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:25:02,183] - DEBUG: Request completion time: 0.0027539730072021484
+[2019-02-24 21:26:16,558] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-24 21:26:16,588] - DEBUG: Request completion time: 0.026381969451904297
+[2019-02-24 21:26:16,739] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-24 21:26:16,742] - DEBUG: Request completion time: 0.0031180381774902344
+[2019-02-24 21:26:16,753] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-24 21:26:16,755] - DEBUG: Request completion time: 0.0014252662658691406
+[2019-02-24 21:27:40,391] - DEBUG: Request [POST] : http://localhost:5000/api/v1/login
+[2019-02-24 21:27:40,396] - DEBUG: Request completion time: 0.0024399757385253906
+[2019-02-24 21:27:55,156] - DEBUG: Request [POST] : http://localhost:5000/api/v1/login
+[2019-02-24 21:27:55,158] - DEBUG: Request completion time: 0.0011441707611083984
+[2019-02-25 09:51:09,605] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-25 09:51:09,611] - DEBUG: Request completion time: 0.004582881927490234
+[2019-02-25 09:51:09,648] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-02-25 09:51:09,657] - DEBUG: Request completion time: 0.009291887283325195
+[2019-02-25 09:51:09,662] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/droid-sans.css
+[2019-02-25 09:51:09,670] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui.css
+[2019-02-25 09:51:09,676] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-02-25 09:51:09,679] - DEBUG: Request completion time: 0.002635955810546875
+[2019-02-25 09:51:09,680] - DEBUG: Request completion time: 0.01698899269104004
+[2019-02-25 09:51:09,682] - DEBUG: Request completion time: 0.010551214218139648
+[2019-02-25 09:51:09,845] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-25 09:51:09,847] - DEBUG: Request completion time: 0.0017333030700683594
+[2019-02-25 09:51:09,863] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-25 09:51:09,865] - DEBUG: Request completion time: 0.00096893310546875
+[2019-02-25 21:26:01,701] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-25 21:26:01,766] - DEBUG: Request completion time: 0.05879402160644531
+[2019-02-25 21:26:01,834] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-02-25 21:26:01,839] - DEBUG: Request completion time: 0.0036771297454833984
+[2019-02-25 21:26:01,842] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-02-25 21:26:01,843] - DEBUG: Request completion time: 0.0010170936584472656
+[2019-02-25 21:26:02,190] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-25 21:26:02,194] - DEBUG: Request completion time: 0.0036296844482421875
+[2019-02-25 21:26:26,848] - DEBUG: Request [POST] : http://localhost:5000/api/v1/login
+[2019-02-25 21:26:26,862] - DEBUG: Request completion time: 0.014036417007446289
+[2019-02-25 21:28:39,868] - DEBUG: Request [POST] : http://localhost:5000/api/v1/login
+[2019-02-25 21:28:39,869] - DEBUG: Request completion time: 0.0013477802276611328
+[2019-02-26 14:11:31,476] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-26 14:11:31,482] - DEBUG: Request completion time: 0.002061128616333008
+[2019-02-26 14:11:38,231] - DEBUG: Request [GET] : http://localhost:5000/api/v1/secret
+[2019-02-26 14:11:38,240] - DEBUG: Request completion time: 0.008066892623901367
+[2019-02-28 09:46:16,853] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 09:46:16,909] - DEBUG: Request completion time: 0.05262112617492676
+[2019-02-28 09:46:16,987] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/droid-sans.css
+[2019-02-28 09:46:16,989] - DEBUG: Request completion time: 0.0017802715301513672
+[2019-02-28 09:46:17,000] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui.css
+[2019-02-28 09:46:17,003] - DEBUG: Request completion time: 0.002360105514526367
+[2019-02-28 09:46:17,007] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-02-28 09:46:17,009] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-02-28 09:46:17,011] - DEBUG: Request completion time: 0.0035178661346435547
+[2019-02-28 09:46:17,011] - DEBUG: Request completion time: 0.001931905746459961
+[2019-02-28 09:46:17,433] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 09:46:17,436] - DEBUG: Request completion time: 0.0033419132232666016
+[2019-02-28 09:51:30,927] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 09:51:30,965] - DEBUG: Request completion time: 0.032955169677734375
+[2019-02-28 09:51:31,141] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 09:51:31,146] - DEBUG: Request completion time: 0.004115104675292969
+[2019-02-28 09:51:31,319] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 09:51:31,321] - DEBUG: Request completion time: 0.002003908157348633
+[2019-02-28 09:51:46,877] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 09:51:46,894] - DEBUG: Request completion time: 0.01685190200805664
+[2019-02-28 09:51:46,983] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 09:51:46,987] - DEBUG: Request completion time: 0.00345611572265625
+[2019-02-28 09:51:46,997] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 09:51:47,000] - DEBUG: Request completion time: 0.001592874526977539
+[2019-02-28 09:51:58,359] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 09:51:58,376] - DEBUG: Request completion time: 0.017309904098510742
+[2019-02-28 09:51:58,470] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 09:51:58,474] - DEBUG: Request completion time: 0.0036821365356445312
+[2019-02-28 09:51:58,483] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 09:51:58,486] - DEBUG: Request completion time: 0.0017769336700439453
+[2019-02-28 09:52:19,240] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 09:53:39,810] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 09:55:18,847] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 10:39:28,200] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 10:39:55,935] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 10:40:56,996] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 10:41:14,168] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 10:41:14,202] - DEBUG: Request completion time: 0.033032894134521484
+[2019-02-28 10:41:14,348] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 10:41:14,352] - DEBUG: Request completion time: 0.003949165344238281
+[2019-02-28 10:41:14,367] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 10:41:14,369] - DEBUG: Request completion time: 0.0014767646789550781
+[2019-02-28 10:41:34,955] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 10:46:39,281] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 10:46:39,318] - DEBUG: Request completion time: 0.03128480911254883
+[2019-02-28 10:46:39,465] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 10:46:39,470] - DEBUG: Request completion time: 0.004915952682495117
+[2019-02-28 10:46:39,482] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 10:46:39,484] - DEBUG: Request completion time: 0.0015041828155517578
+[2019-02-28 10:46:50,883] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-28 10:46:50,968] - DEBUG: Request completion time: 0.0847480297088623
+[2019-02-28 10:47:58,462] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-28 10:47:58,519] - DEBUG: Request completion time: 0.051587820053100586
+[2019-02-28 10:48:27,187] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-02-28 10:48:27,231] - DEBUG: Request completion time: 0.04360795021057129
+[2019-02-28 10:59:50,298] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:05:11,028] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:06:18,317] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:06:18,360] - DEBUG: Request completion time: 0.042996883392333984
+[2019-02-28 11:07:04,154] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:07:04,203] - DEBUG: Request completion time: 0.04849386215209961
+[2019-02-28 11:07:46,617] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:07:46,662] - DEBUG: Request completion time: 0.04380011558532715
+[2019-02-28 11:08:30,359] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:10:34,323] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:16:20,974] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:19:35,555] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:23:16,075] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:23:46,029] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 11:24:22,144] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 12:52:29,095] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 12:53:25,201] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 12:53:58,832] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 12:53:58,929] - ERROR: 127.0.0.1 POST /api/v1/registration 406 Databse Exception 
+ Traceback (most recent call last):
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/sqlalchemy/orm/session.py", line 1938, in add
+    state = attributes.instance_state(instance)
+AttributeError: 'MarshalResult' object has no attribute '_sa_instance_state'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/utils/database.py", line 11, in session_commit_context
+    yield session
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/resources/user.py", line 31, in post
+    result = UserService.register(user_api.payload)
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/services/user.py", line 19, in register
+    user = super(UserService, cls).create(data)
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/services/base_service.py", line 37, in create
+    cls.model.create(schema.dump(model_data))
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/models/base_model.py", line 69, in create
+    session.add(data)
+sqlalchemy.orm.exc.UnmappedInstanceError: Class 'marshmallow.schema.MarshalResult' is not mapped
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask_restplus/api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask_restplus/resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+api.exceptions.database_exception.DatabaseException: <unprintable DatabaseException object>
+
+[2019-02-28 12:53:58,930] - ERROR: 127.0.0.1 POST /api/v1/registration 406 Databse Exception 
+ Traceback (most recent call last):
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/sqlalchemy/orm/session.py", line 1938, in add
+    state = attributes.instance_state(instance)
+AttributeError: 'MarshalResult' object has no attribute '_sa_instance_state'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/utils/database.py", line 11, in session_commit_context
+    yield session
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/resources/user.py", line 31, in post
+    result = UserService.register(user_api.payload)
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/services/user.py", line 19, in register
+    user = super(UserService, cls).create(data)
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/services/base_service.py", line 37, in create
+    cls.model.create(schema.dump(model_data))
+  File "/Users/apple/premanuj/flaskapps/flask_restful_structure/api/models/base_model.py", line 69, in create
+    session.add(data)
+sqlalchemy.orm.exc.UnmappedInstanceError: Class 'marshmallow.schema.MarshalResult' is not mapped
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask_restplus/api.py", line 583, in error_router
+    return original_handler(e)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+api.exceptions.database_exception.DatabaseException: <unprintable DatabaseException object>
+
+[2019-02-28 19:23:16,203] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 19:23:16,229] - DEBUG: Request completion time: 0.023733854293823242
+[2019-02-28 19:23:16,394] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 19:23:16,401] - DEBUG: Request completion time: 0.006941318511962891
+[2019-02-28 19:23:16,417] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 19:23:16,422] - DEBUG: Request completion time: 0.0044097900390625
+[2019-02-28 19:23:37,494] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 19:26:07,698] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 19:26:07,731] - DEBUG: Request completion time: 0.03171396255493164
+[2019-02-28 19:26:07,876] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 19:26:07,880] - DEBUG: Request completion time: 0.003606081008911133
+[2019-02-28 19:26:07,890] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 19:26:07,892] - DEBUG: Request completion time: 0.0014882087707519531
+[2019-02-28 19:26:35,385] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 19:35:15,784] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 19:35:15,811] - DEBUG: Request completion time: 0.026159048080444336
+[2019-02-28 19:35:15,929] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 19:35:15,933] - DEBUG: Request completion time: 0.0039539337158203125
+[2019-02-28 19:35:16,048] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 19:35:16,049] - DEBUG: Request completion time: 0.001332998275756836
+[2019-02-28 19:35:25,850] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 19:36:06,168] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 19:39:45,065] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 19:40:00,355] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 19:40:09,132] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-02-28 19:40:25,204] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-02-28 19:40:25,235] - DEBUG: Request completion time: 0.023101091384887695
+[2019-02-28 19:40:25,367] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-02-28 19:40:25,371] - DEBUG: Request completion time: 0.0033330917358398438
+[2019-02-28 19:40:25,384] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-02-28 19:40:25,386] - DEBUG: Request completion time: 0.0013213157653808594
+[2019-03-01 08:11:17,815] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 08:12:06,720] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 08:13:04,513] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 08:13:36,913] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:20:58,314] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:21:30,583] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:21:56,462] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:25:06,791] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:25:17,268] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:31:19,312] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:31:35,726] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:33:28,074] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:34:52,776] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:35:56,561] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:36:34,998] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:36:43,310] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:37:25,035] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 10:37:25,165] - DEBUG: Request completion time: 0.128432035446167
+[2019-03-01 11:06:42,113] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-01 11:06:42,149] - DEBUG: Request completion time: 0.03149294853210449
+[2019-03-01 11:06:42,194] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui.css
+[2019-03-01 11:06:42,205] - DEBUG: Request completion time: 0.009706974029541016
+[2019-03-01 11:06:42,207] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-03-01 11:06:42,211] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-03-01 11:06:42,213] - DEBUG: Request completion time: 0.001714944839477539
+[2019-03-01 11:06:42,222] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/droid-sans.css
+[2019-03-01 11:06:42,225] - DEBUG: Request completion time: 0.0010437965393066406
+[2019-03-01 11:06:42,225] - DEBUG: Request completion time: 0.01700592041015625
+[2019-03-01 11:06:42,375] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-01 11:06:42,378] - DEBUG: Request completion time: 0.0018498897552490234
+[2019-03-01 11:06:42,400] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-01 11:06:42,402] - DEBUG: Request completion time: 0.0012562274932861328
+[2019-03-01 11:06:50,406] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-01 11:06:50,409] - DEBUG: Request completion time: 0.0028409957885742188
+[2019-03-01 11:06:50,510] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-01 11:06:50,512] - DEBUG: Request completion time: 0.0013511180877685547
+[2019-03-01 11:06:50,523] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-01 11:06:50,524] - DEBUG: Request completion time: 0.0008480548858642578
+[2019-03-01 12:53:30,366] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-01 12:53:30,386] - DEBUG: Request completion time: 0.01899886131286621
+[2019-03-01 12:53:30,444] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-03-01 12:53:30,447] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-03-01 12:53:30,448] - DEBUG: Request completion time: 0.0037620067596435547
+[2019-03-01 12:53:30,453] - DEBUG: Request completion time: 0.003592252731323242
+[2019-03-01 12:53:30,792] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-01 12:53:30,795] - DEBUG: Request completion time: 0.0026133060455322266
+[2019-03-01 12:53:31,038] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-01 12:53:31,039] - DEBUG: Request completion time: 0.0007340908050537109
+[2019-03-01 12:54:11,113] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 12:54:11,178] - ERROR: 127.0.0.1 POST /api/v1/registration 406 User with email "mesubedianuj@gmail.com" already exists 
+ Traceback (most recent call last):
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask_restplus/api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask_restplus/resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+api.exceptions.already_exist_exception.AlreadyExistException: <unprintable AlreadyExistException object>
+
+[2019-03-01 12:54:11,179] - ERROR: 127.0.0.1 POST /api/v1/registration 406 User with email "mesubedianuj@gmail.com" already exists 
+ Traceback (most recent call last):
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask_restplus/api.py", line 583, in error_router
+    return original_handler(e)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/apple/.local/share/virtualenvs/flask_restful_structure-JT1BGkNm/lib/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+api.exceptions.already_exist_exception.AlreadyExistException: <unprintable AlreadyExistException object>
+
+[2019-03-01 12:54:34,004] - DEBUG: Request [POST] : http://localhost:5000/api/v1/registration
+[2019-03-01 12:54:34,075] - DEBUG: Request completion time: 0.06239008903503418
+[2019-03-02 14:52:28,365] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 14:52:28,383] - DEBUG: Request completion time: 0.017489910125732422
+[2019-03-02 14:52:28,411] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-03-02 14:52:28,414] - DEBUG: Request completion time: 0.0026700496673583984
+[2019-03-02 14:52:28,418] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-03-02 14:52:28,422] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/droid-sans.css
+[2019-03-02 14:52:28,423] - DEBUG: Request completion time: 0.001024007797241211
+[2019-03-02 14:52:28,425] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui.css
+[2019-03-02 14:52:28,428] - DEBUG: Request completion time: 0.007843017578125
+[2019-03-02 14:52:28,431] - DEBUG: Request completion time: 0.0008151531219482422
+[2019-03-02 14:52:29,328] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 14:52:29,329] - DEBUG: Request completion time: 0.0008082389831542969
+[2019-03-02 14:52:29,346] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 14:52:29,347] - DEBUG: Request completion time: 0.0008790493011474609
+[2019-03-02 14:55:44,041] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 14:55:44,050] - DEBUG: Request completion time: 0.005502939224243164
+[2019-03-02 14:55:44,545] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 14:55:44,546] - DEBUG: Request completion time: 0.0010018348693847656
+[2019-03-02 14:55:44,736] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 14:55:44,739] - DEBUG: Request completion time: 0.002737283706665039
+[2019-03-02 14:58:02,220] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 14:58:02,226] - DEBUG: Request completion time: 0.002084970474243164
+[2019-03-02 14:58:02,458] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 14:58:02,459] - DEBUG: Request completion time: 0.0005490779876708984
+[2019-03-02 14:58:02,472] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 14:58:02,476] - DEBUG: Request completion time: 0.0037848949432373047
+[2019-03-02 14:58:12,893] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 14:58:12,911] - DEBUG: Request completion time: 0.017657995223999023
+[2019-03-02 14:58:13,069] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 14:58:13,071] - DEBUG: Request completion time: 0.0015690326690673828
+[2019-03-02 14:58:13,087] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 14:58:13,089] - DEBUG: Request completion time: 0.0017168521881103516
+[2019-03-02 15:00:28,096] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:00:28,100] - DEBUG: Request completion time: 0.002063274383544922
+[2019-03-02 15:00:28,334] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:00:28,335] - DEBUG: Request completion time: 0.0006320476531982422
+[2019-03-02 15:00:28,351] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:00:28,352] - DEBUG: Request completion time: 0.0008108615875244141
+[2019-03-02 15:03:24,007] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:03:24,026] - DEBUG: Request completion time: 0.013686895370483398
+[2019-03-02 15:03:24,285] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:03:24,287] - DEBUG: Request completion time: 0.0020461082458496094
+[2019-03-02 15:03:24,308] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:03:24,311] - DEBUG: Request completion time: 0.0027818679809570312
+[2019-03-02 15:08:36,236] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:08:36,273] - DEBUG: Request completion time: 0.03598308563232422
+[2019-03-02 15:08:36,457] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:08:36,460] - DEBUG: Request completion time: 0.0016808509826660156
+[2019-03-02 15:08:36,564] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:08:36,566] - DEBUG: Request completion time: 0.0019021034240722656
+[2019-03-02 15:20:40,612] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:20:40,635] - DEBUG: Request completion time: 0.020704030990600586
+[2019-03-02 15:20:40,839] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:20:40,841] - DEBUG: Request completion time: 0.0012748241424560547
+[2019-03-02 15:20:40,939] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:20:40,940] - DEBUG: Request completion time: 0.001238107681274414
+[2019-03-02 15:22:11,966] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:11,983] - DEBUG: Request completion time: 0.01697707176208496
+[2019-03-02 15:22:12,161] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:12,163] - DEBUG: Request completion time: 0.0010142326354980469
+[2019-03-02 15:22:12,251] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:12,253] - DEBUG: Request completion time: 0.0013020038604736328
+[2019-03-02 15:22:13,556] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:13,557] - DEBUG: Request completion time: 0.0011677742004394531
+[2019-03-02 15:22:13,657] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:13,658] - DEBUG: Request completion time: 0.0004601478576660156
+[2019-03-02 15:22:13,667] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:13,668] - DEBUG: Request completion time: 0.0009872913360595703
+[2019-03-02 15:22:49,846] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:49,864] - DEBUG: Request completion time: 0.017656803131103516
+[2019-03-02 15:22:50,027] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:50,029] - DEBUG: Request completion time: 0.0011749267578125
+[2019-03-02 15:22:50,039] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:50,043] - DEBUG: Request completion time: 0.003410816192626953
+[2019-03-02 15:22:50,747] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:50,749] - DEBUG: Request completion time: 0.0011148452758789062
+[2019-03-02 15:22:50,845] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:50,846] - DEBUG: Request completion time: 0.0005371570587158203
+[2019-03-02 15:22:50,861] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:50,863] - DEBUG: Request completion time: 0.0013399124145507812
+[2019-03-02 15:22:51,435] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:51,438] - DEBUG: Request completion time: 0.0014488697052001953
+[2019-03-02 15:22:51,531] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:51,532] - DEBUG: Request completion time: 0.0004341602325439453
+[2019-03-02 15:22:51,540] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:51,541] - DEBUG: Request completion time: 0.0009670257568359375
+[2019-03-02 15:22:51,968] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:51,969] - DEBUG: Request completion time: 0.0009670257568359375
+[2019-03-02 15:22:52,062] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:52,063] - DEBUG: Request completion time: 0.0004341602325439453
+[2019-03-02 15:22:52,072] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:52,073] - DEBUG: Request completion time: 0.0008103847503662109
+[2019-03-02 15:22:52,155] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:52,157] - DEBUG: Request completion time: 0.0019009113311767578
+[2019-03-02 15:22:52,244] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:52,245] - DEBUG: Request completion time: 0.0005040168762207031
+[2019-03-02 15:22:52,256] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:52,260] - DEBUG: Request completion time: 0.002900838851928711
+[2019-03-02 15:22:52,366] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:52,367] - DEBUG: Request completion time: 0.001058816909790039
+[2019-03-02 15:22:52,450] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:52,451] - DEBUG: Request completion time: 0.0005109310150146484
+[2019-03-02 15:22:52,461] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:52,463] - DEBUG: Request completion time: 0.001016855239868164
+[2019-03-02 15:22:58,195] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:58,208] - DEBUG: Request completion time: 0.013260126113891602
+[2019-03-02 15:22:58,283] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:58,284] - DEBUG: Request completion time: 0.0008862018585205078
+[2019-03-02 15:22:58,293] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:58,295] - DEBUG: Request completion time: 0.0015571117401123047
+[2019-03-02 15:22:58,988] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:58,991] - DEBUG: Request completion time: 0.0016722679138183594
+[2019-03-02 15:22:59,075] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:59,076] - DEBUG: Request completion time: 0.0005609989166259766
+[2019-03-02 15:22:59,086] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:59,088] - DEBUG: Request completion time: 0.0013127326965332031
+[2019-03-02 15:22:59,632] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:59,634] - DEBUG: Request completion time: 0.001280069351196289
+[2019-03-02 15:22:59,716] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:59,716] - DEBUG: Request completion time: 0.00046324729919433594
+[2019-03-02 15:22:59,729] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:59,730] - DEBUG: Request completion time: 0.000782012939453125
+[2019-03-02 15:22:59,878] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:22:59,882] - DEBUG: Request completion time: 0.0013828277587890625
+[2019-03-02 15:22:59,962] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:22:59,963] - DEBUG: Request completion time: 0.0004742145538330078
+[2019-03-02 15:22:59,972] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:22:59,973] - DEBUG: Request completion time: 0.0009310245513916016
+[2019-03-02 15:23:00,221] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:00,223] - DEBUG: Request completion time: 0.0014348030090332031
+[2019-03-02 15:23:00,302] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:00,303] - DEBUG: Request completion time: 0.0004858970642089844
+[2019-03-02 15:23:00,314] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:00,316] - DEBUG: Request completion time: 0.001199960708618164
+[2019-03-02 15:23:00,472] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:00,474] - DEBUG: Request completion time: 0.0013680458068847656
+[2019-03-02 15:23:00,554] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:00,555] - DEBUG: Request completion time: 0.000453948974609375
+[2019-03-02 15:23:00,567] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:00,568] - DEBUG: Request completion time: 0.0008230209350585938
+[2019-03-02 15:23:00,712] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:00,714] - DEBUG: Request completion time: 0.0014989376068115234
+[2019-03-02 15:23:00,794] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:00,795] - DEBUG: Request completion time: 0.0005371570587158203
+[2019-03-02 15:23:00,803] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:00,804] - DEBUG: Request completion time: 0.0009548664093017578
+[2019-03-02 15:23:00,940] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:00,943] - DEBUG: Request completion time: 0.0015170574188232422
+[2019-03-02 15:23:01,021] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:01,021] - DEBUG: Request completion time: 0.000476837158203125
+[2019-03-02 15:23:01,027] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:01,031] - DEBUG: Request completion time: 0.003262042999267578
+[2019-03-02 15:23:01,141] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:01,143] - DEBUG: Request completion time: 0.0010600090026855469
+[2019-03-02 15:23:01,232] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:01,232] - DEBUG: Request completion time: 0.0004971027374267578
+[2019-03-02 15:23:01,240] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:01,241] - DEBUG: Request completion time: 0.0008358955383300781
+[2019-03-02 15:23:01,342] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:01,343] - DEBUG: Request completion time: 0.0011777877807617188
+[2019-03-02 15:23:01,421] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:01,422] - DEBUG: Request completion time: 0.0005810260772705078
+[2019-03-02 15:23:01,432] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:01,433] - DEBUG: Request completion time: 0.0008258819580078125
+[2019-03-02 15:23:01,555] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:01,557] - DEBUG: Request completion time: 0.0012328624725341797
+[2019-03-02 15:23:01,638] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:01,639] - DEBUG: Request completion time: 0.00045108795166015625
+[2019-03-02 15:23:01,648] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:01,650] - DEBUG: Request completion time: 0.0011200904846191406
+[2019-03-02 15:23:16,353] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:23:16,367] - DEBUG: Request completion time: 0.013416051864624023
+[2019-03-02 15:23:16,446] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:23:16,447] - DEBUG: Request completion time: 0.0009050369262695312
+[2019-03-02 15:23:16,458] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:23:16,460] - DEBUG: Request completion time: 0.0015540122985839844
+[2019-03-02 15:24:05,187] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 15:24:05,216] - DEBUG: Request completion time: 0.02056598663330078
+[2019-03-02 15:24:05,383] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 15:24:05,389] - DEBUG: Request completion time: 0.005239009857177734
+[2019-03-02 15:24:05,497] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 15:24:05,498] - DEBUG: Request completion time: 0.00145721435546875
+[2019-03-02 15:24:35,621] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 15:24:35,903] - DEBUG: Request completion time: 0.28219008445739746
+[2019-03-02 15:31:25,320] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 15:31:38,309] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 15:31:38,395] - DEBUG: Request completion time: 0.07770586013793945
+[2019-03-02 15:38:11,013] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 15:38:11,080] - DEBUG: Request completion time: 0.059118032455444336
+[2019-03-02 15:40:27,080] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 15:40:27,129] - DEBUG: Request completion time: 0.04043698310852051
+[2019-03-02 15:40:46,004] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 15:40:46,025] - DEBUG: Request completion time: 0.020958900451660156
+[2019-03-02 15:40:53,015] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 15:40:53,035] - DEBUG: Request completion time: 0.01998114585876465
+[2019-03-02 15:40:53,309] - DEBUG: Request [GET] : http://localhost:5000/favicon.ico
+[2019-03-02 15:40:53,326] - DEBUG: Request completion time: 0.0163881778717041
+[2019-03-02 16:17:38,732] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-02 16:17:38,774] - DEBUG: Request completion time: 0.0315089225769043
+[2019-03-02 16:17:38,963] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-02 16:17:38,974] - DEBUG: Request completion time: 0.009966135025024414
+[2019-03-02 16:17:38,994] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-02 16:17:38,996] - DEBUG: Request completion time: 0.0020868778228759766
+[2019-03-02 16:17:47,743] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:17:47,838] - DEBUG: Request completion time: 0.09228801727294922
+[2019-03-02 16:25:54,671] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:25:54,756] - DEBUG: Request completion time: 0.07908177375793457
+[2019-03-02 16:28:36,751] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:28:37,039] - DEBUG: Request completion time: 0.0649406909942627
+[2019-03-02 16:29:00,446] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:29:00,517] - DEBUG: Request completion time: 0.0697469711303711
+[2019-03-02 16:29:36,352] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:29:36,415] - DEBUG: Request completion time: 0.06215500831604004
+[2019-03-02 16:30:01,668] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:30:01,746] - DEBUG: Request completion time: 0.07712793350219727
+[2019-03-02 16:30:20,654] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:30:20,680] - DEBUG: Request completion time: 0.02455902099609375
+[2019-03-02 16:42:47,947] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-02 16:42:48,021] - DEBUG: Request completion time: 0.07442569732666016
+[2019-03-03 12:46:03,289] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-03 12:46:03,344] - DEBUG: Request completion time: 0.05188298225402832
+[2019-03-03 12:46:03,424] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui.css
+[2019-03-03 12:46:03,427] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/droid-sans.css
+[2019-03-03 12:46:03,433] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-bundle.js
+[2019-03-03 12:46:03,437] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/swagger-ui-standalone-preset.js
+[2019-03-03 12:46:03,439] - DEBUG: Request completion time: 0.011525869369506836
+[2019-03-03 12:46:03,440] - DEBUG: Request completion time: 0.009292840957641602
+[2019-03-03 12:46:03,442] - DEBUG: Request completion time: 0.006201982498168945
+[2019-03-03 12:46:03,444] - DEBUG: Request completion time: 0.0038650035858154297
+[2019-03-03 12:46:03,742] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-03 12:46:03,747] - DEBUG: Request completion time: 0.004580020904541016
+[2019-03-03 12:46:14,656] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-03 12:46:15,254] - DEBUG: Request completion time: 0.5973351001739502
+[2019-03-03 14:30:49,412] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-03 14:30:49,548] - DEBUG: Request completion time: 0.1272280216217041
+[2019-03-03 15:12:24,815] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-03 15:12:24,843] - DEBUG: Request completion time: 0.022732019424438477
+[2019-03-03 15:12:25,186] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-03 15:12:25,193] - DEBUG: Request completion time: 0.006182193756103516
+[2019-03-03 15:12:25,208] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-03 15:12:25,214] - DEBUG: Request completion time: 0.005485057830810547
+[2019-03-03 15:12:42,559] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-03 15:12:42,607] - DEBUG: Request completion time: 0.047348976135253906

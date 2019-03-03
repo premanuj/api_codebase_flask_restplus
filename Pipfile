@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "~=2.2"
+pylint-sqlalchemy = "~=0.1"
+recommonmark = "~=0.5"
+
+
+[packages]
+flask = "*"
+logzero = "*"
+python-dotenv = "~=0.10"
+sqlalchemy-utils = "~=0.33"
+flask-sqlalchemy = "*"
+flask-restplus = "*"
+marshmallow-sqlalchemy = "~=0.15"
+marshmallow = "*"
+flask-migrate = "*"
+passlib = "*"
+psycopg2-binary = "*"
+apispec = "~=0.39"
+
+[requires]
+python_version = "3.6"
