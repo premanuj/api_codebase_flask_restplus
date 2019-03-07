@@ -895,3 +895,13 @@ api.exceptions.already_exist_exception.AlreadyExistException: <unprintable Alrea
 [2019-03-03 18:24:29,738] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
 [2019-03-03 18:24:44,603] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
 [2019-03-03 18:24:44,668] - DEBUG: Request completion time: 0.06548404693603516
+[2019-03-03 18:58:25,401] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-03 18:58:25,448] - DEBUG: Request completion time: 0.047441720962524414
+[2019-03-03 18:59:28,219] - DEBUG: Request [GET] : http://localhost:5000/
+[2019-03-03 18:59:28,248] - DEBUG: Request completion time: 0.028789043426513672
+[2019-03-03 18:59:28,399] - DEBUG: Request [GET] : http://localhost:5000/api/v1/swagger.json
+[2019-03-03 18:59:28,404] - DEBUG: Request completion time: 0.004884004592895508
+[2019-03-03 18:59:28,419] - DEBUG: Request [GET] : http://localhost:5000/swaggerui/favicon-32x32.png
+[2019-03-03 18:59:28,421] - DEBUG: Request completion time: 0.0016889572143554688
+[2019-03-03 18:59:49,923] - DEBUG: Request [GET] : http://localhost:5000/api/v1/users
+[2019-03-03 18:59:49,927] - DEBUG: Request completion time: 0.004548072814941406
